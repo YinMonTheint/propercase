@@ -1,0 +1,22 @@
+.conatiner{
+    border: 1px solid palevioletred;
+    width: 50%;
+    height: 200px;
+    margin: 150px;
+    padding: 20px;
+    background-color:papayawhip;
+}
+input{
+    border: 1px solid saddlebrown;
+    margin:10px ;
+    width: 300px;
+    height: 40px;
+}
+
+button{
+    border:none ;
+    margin: 10px;
+    background-color:pink;
+    width: 50px;
+    height: 40px;
+}
